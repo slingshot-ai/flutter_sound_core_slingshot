@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'flutter_sound_core_slingshot'
+  s.name             = 'flutter_sound_core'
   s.version          = '9.2.14'
   s.summary          = 'Provides simple recorder and player functionalities for iOS platform.'
 
